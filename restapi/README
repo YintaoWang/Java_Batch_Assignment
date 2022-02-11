@@ -16,6 +16,8 @@ logging: lombok @Slf4j
 
 exception handling: global exception handling @ControllerAdvice
 
+pagination: forgot.... will do.
+
 ##configuration
 plase check the pom.xml and application.properties
 
