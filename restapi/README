@@ -1,0 +1,23 @@
+#restapi
+
+this project was built for practice purpose. it is a restful api project based on Spring boot. Not all the endpoints were finished yet. Still working on it.
+
+##feature
+ORM: Student - Course (many to many)
+endpoints: 
+create student/course
+update student/course
+get student/course by id
+get all the students/courses
+delete student/course by id with/without orphan removal
+add student course junction by student id and course id
+
+logging: lombok @Slf4j
+
+exception handling: global exception handling @ControllerAdvice
+
+##configuration
+plase check the pom.xml and application.properties
+
+##Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
