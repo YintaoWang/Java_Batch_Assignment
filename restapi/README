@@ -18,6 +18,9 @@ exception handling: global exception handling @ControllerAdvice
 
 pagination: forgot.... will do.
 
+##testing
+basically all the finished features are simply tested.
+
 ##configuration
 plase check the pom.xml and application.properties
 
